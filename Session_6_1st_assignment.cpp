@@ -4,7 +4,7 @@ using namespace std;
 void Fibonacci(int a){
     int n1 = 0, n2 = 1, NextNumber = 0;
     cout << "Fibonacci Series: ";
-    for (int i = 1; i <= a; ++i)
+    for (int i = 1; i <= a; i++)
     {
      if(i == 1)
     {
